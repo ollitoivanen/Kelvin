@@ -1,0 +1,1142 @@
+{
+  "name": "Reaktor Turku",
+  "devices": [
+    {
+      "addressType": "group",
+      "driverId": { "protocol": "helvar510", "address": 2 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000003903" },
+      "type": "dimmable",
+      "id": "309affa2-d3a6-4a4d-8395-83b2eaa4a30d",
+      "name": "Spotlights",
+      "roomId": "dca9a21e-262f-4fc8-887a-219b2050fb7b",
+      "singleAddresses": [10, 7, 6, 5, 4, 3, 0],
+      "state": { "on": true, "bri": 255 },
+      "brightnessLimits": { "min": 102, "max": 254 }
+    },
+    {
+      "addressType": "group",
+      "driverId": { "protocol": "helvar510", "address": 0 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000003903" },
+      "type": "dimmable",
+      "id": "f159aa0d-b060-4003-a7fe-fbfcd90e95a3",
+      "name": "Spotlights",
+      "roomId": "e64b5b87-2f34-46fc-8ec2-85a731d8f7a3",
+      "singleAddresses": [36, 35, 34, 33, 32, 31],
+      "state": { "on": true, "bri": 130 },
+      "brightnessLimits": { "min": 102, "max": 254 }
+    },
+    {
+      "addressType": "single",
+      "driverId": { "protocol": "helvar510", "address": 8 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000004112" },
+      "id": "c4700537-ca4f-4bb0-a730-22f068497534",
+      "name": "Lounge",
+      "type": "dimmable",
+      "roomId": "c3e9dcc0-b4bd-4f1c-bb18-ec3750f854be",
+      "state": { "on": true, "bri": 255 },
+      "brightnessLimits": { "min": 170, "max": 254 },
+      "description": ""
+    },
+    {
+      "addressType": "single",
+      "driverId": { "protocol": "helvar510", "address": 0 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000004112" },
+      "id": "9ce4d02a-8e55-43d2-8dd7-3f146d2629a9",
+      "name": "Table",
+      "type": "binary",
+      "roomId": "c3e9dcc0-b4bd-4f1c-bb18-ec3750f854be",
+      "state": { "on": true, "bri": 255 },
+      "brightnessLimits": { "min": 254, "max": 254 },
+      "description": "2x Brokis Muffins"
+    },
+    {
+      "addressType": "single",
+      "driverId": { "protocol": "helvar510", "address": 2 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000004112" },
+      "id": "0fcecc5e-a907-47e8-9bfe-c7906c2269f4",
+      "name": "Ambience",
+      "type": "binary",
+      "roomId": "c3e9dcc0-b4bd-4f1c-bb18-ec3750f854be",
+      "state": { "on": true, "bri": 255 },
+      "brightnessLimits": { "min": 254, "max": 254 }
+    },
+    {
+      "addressType": "single",
+      "driverId": { "protocol": "helvar510", "address": 1 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000004112" },
+      "id": "0d5bf97c-5776-4789-946b-1995330ec11d",
+      "name": "Table",
+      "type": "binary",
+      "roomId": "0fa4ed6e-a38a-47a2-add6-c42b8e0e92d9",
+      "state": { "on": false, "bri": 255 },
+      "brightnessLimits": { "min": 254, "max": 254 }
+    },
+    {
+      "addressType": "single",
+      "driverId": { "protocol": "helvar510", "address": 16 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000003903" },
+      "id": "4476f300-0445-46f0-9bf0-e0caa9efbe60",
+      "name": "Lounge",
+      "type": "binary",
+      "roomId": "25d1cfc6-ff1a-47a3-b2e7-beff89219c1f",
+      "state": { "on": true, "bri": 255 },
+      "brightnessLimits": { "min": 254, "max": 254 }
+    },
+    {
+      "addressType": "single",
+      "driverId": { "protocol": "helvar510", "address": 13 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000003903" },
+      "id": "1b80dbbe-e490-4650-a14c-faa2a4ea0f29",
+      "name": "Table",
+      "type": "binary",
+      "roomId": "25d1cfc6-ff1a-47a3-b2e7-beff89219c1f",
+      "state": { "on": true, "bri": 255 },
+      "brightnessLimits": { "min": 254, "max": 254 }
+    },
+    {
+      "addressType": "single",
+      "driverId": { "protocol": "helvar510", "address": 15 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000003903" },
+      "id": "5f3e9476-1fff-409d-811e-10fbd18d69cc",
+      "name": "Spotlights",
+      "type": "binary",
+      "roomId": "da529fe6-be8f-4680-8759-ef29cba09646",
+      "state": { "on": true, "bri": 255 }
+    },
+    {
+      "addressType": "group",
+      "driverId": { "protocol": "helvar510", "address": 4 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000003903" },
+      "type": "dimmable",
+      "id": "58a77d5c-4c20-4975-a04f-8b42c58844b4",
+      "name": "Spotlights",
+      "roomId": "25d1cfc6-ff1a-47a3-b2e7-beff89219c1f",
+      "singleAddresses": [30, 29, 28, 27, 21, 22, 23, 24, 25, 26, 37],
+      "state": { "on": true, "bri": 255 },
+      "brightnessLimits": { "min": 102, "max": 254 }
+    },
+    {
+      "addressType": "group",
+      "driverId": { "protocol": "helvar510", "address": 0 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000004112" },
+      "type": "dimmable",
+      "id": "407d1d17-619a-4dae-aafd-0e78aea9089c",
+      "name": "Spotlights",
+      "roomId": "c3e9dcc0-b4bd-4f1c-bb18-ec3750f854be",
+      "singleAddresses": [4, 5, 6, 7, 22, 21, 20, 19, 16, 15, 14, 12, 13],
+      "state": { "on": true, "bri": 255 },
+      "brightnessLimits": { "min": 91, "max": 254 }
+    },
+    {
+      "addressType": "group",
+      "driverId": { "protocol": "helvar510", "address": 1 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000004112" },
+      "type": "dimmable",
+      "id": "84cf5c96-dd1c-4c8f-be1c-d632132ad832",
+      "name": "Spotlights",
+      "roomId": "0fa4ed6e-a38a-47a2-add6-c42b8e0e92d9",
+      "singleAddresses": [18, 17],
+      "state": { "on": false, "bri": 2 },
+      "brightnessLimits": { "min": 102, "max": 254 }
+    },
+    {
+      "addressType": "group",
+      "driverId": { "protocol": "helvar510", "address": 3 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000003903" },
+      "type": "dimmable",
+      "id": "df090878-b7da-41d5-a216-0c908b4f805b",
+      "name": "Spotlights",
+      "roomId": "19af729b-63c2-494e-92a6-b885636f2106",
+      "singleAddresses": [9, 8, 1, 12],
+      "state": { "on": true, "bri": 255 },
+      "brightnessLimits": { "min": 102, "max": 254 }
+    },
+    {
+      "addressType": "single",
+      "driverId": { "protocol": "helvar510", "address": 14 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000003903" },
+      "id": "9e640c84-2131-4f46-9e87-ca761bc459bf",
+      "name": "Table",
+      "type": "binary",
+      "roomId": "ccc0730f-4b9b-49e3-988d-6f7a518cbbeb",
+      "state": { "on": false, "bri": 255 }
+    },
+    {
+      "addressType": "group",
+      "driverId": { "protocol": "helvar510", "address": 5 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000003903" },
+      "type": "dimmable",
+      "id": "7e7bc520-48ac-4fc5-b522-bf6442181fcc",
+      "name": "Spotlights",
+      "roomId": "ccc0730f-4b9b-49e3-988d-6f7a518cbbeb",
+      "singleAddresses": [2, 11],
+      "state": { "on": false, "bri": 255 },
+      "brightnessLimits": { "min": 102, "max": 254 }
+    },
+    {
+      "addressType": "group",
+      "driverId": { "protocol": "helvar510", "address": 1 },
+      "gatewayId": { "protocol": "helvar510", "address": "000000003903" },
+      "type": "dimmable",
+      "id": "a2b849fa-7c5d-47f8-b4e6-178f71259bdb",
+      "name": "Spotlights",
+      "roomId": "b22be965-f8c6-4aee-8fdb-66ae4a77fc41",
+      "singleAddresses": [20, 19, 18, 17],
+      "state": { "on": true, "bri": 255 },
+      "brightnessLimits": { "min": 102, "max": 254 }
+    }
+  ],
+  "peripherals": [
+    {
+      "id": "074e9823-f8c6-4a9c-b441-cb7e0bb1b768",
+      "driverId": { "protocol": "enocean", "address": "0031677c" },
+      "name": "",
+      "type": "1-key",
+      "roomId": "da529fe6-be8f-4680-8759-ef29cba09646",
+      "configuration": {
+        "right": {
+          "type": "activateScenes",
+          "sceneIds": {
+            "flat": "allOff",
+            "sharp": "72382cf3-0fb6-40ac-ad63-b99fb770dbed"
+          }
+        },
+        "double": {},
+        "left": {}
+      }
+    },
+    {
+      "id": "aa7cce23-ba32-4255-a128-b801b044cd49",
+      "driverId": { "protocol": "enocean", "address": "003167c1" },
+      "name": "",
+      "type": "2-key",
+      "roomId": "25d1cfc6-ff1a-47a3-b2e7-beff89219c1f",
+      "configuration": {
+        "right": {
+          "type": "controlDevices",
+          "deviceIds": ["4476f300-0445-46f0-9bf0-e0caa9efbe60"]
+        },
+        "double": {},
+        "left": {
+          "type": "controlDevices",
+          "deviceIds": ["1b80dbbe-e490-4650-a14c-faa2a4ea0f29"]
+        }
+      }
+    },
+    {
+      "id": "c940eb13-772a-4a9f-a33d-87e5610ccffa",
+      "driverId": { "protocol": "enocean", "address": "003014b7" },
+      "name": "White spotlights",
+      "type": "1-key",
+      "roomId": "c3e9dcc0-b4bd-4f1c-bb18-ec3750f854be",
+      "configuration": {
+        "right": {
+          "type": "dimDevices",
+          "deviceIds": [
+            "407d1d17-619a-4dae-aafd-0e78aea9089c",
+            "0fcecc5e-a907-47e8-9bfe-c7906c2269f4"
+          ]
+        },
+        "double": {},
+        "left": {}
+      }
+    },
+    {
+      "id": "8aa1af0c-207d-4ede-87da-510edaa02c7e",
+      "driverId": { "protocol": "enocean", "address": "0031a6b3" },
+      "name": "",
+      "type": "2-key",
+      "roomId": "c3e9dcc0-b4bd-4f1c-bb18-ec3750f854be",
+      "configuration": {
+        "right": {
+          "type": "controlDevices",
+          "deviceIds": ["9ce4d02a-8e55-43d2-8dd7-3f146d2629a9"]
+        },
+        "double": {},
+        "left": {
+          "type": "dimDevices",
+          "deviceIds": ["c4700537-ca4f-4bb0-a730-22f068497534"]
+        }
+      }
+    },
+    {
+      "id": "318c9246-7052-47a2-bc6c-fc83ecbcfea7",
+      "driverId": { "protocol": "enocean", "address": "003167aa" },
+      "name": "",
+      "type": "1-key",
+      "roomId": "0fa4ed6e-a38a-47a2-add6-c42b8e0e92d9",
+      "configuration": {
+        "right": {
+          "type": "dimDevices",
+          "deviceIds": ["84cf5c96-dd1c-4c8f-be1c-d632132ad832"]
+        },
+        "double": {},
+        "left": {}
+      }
+    },
+    {
+      "id": "e33f7b55-aa7c-4acd-8e02-e02d9248ffb7",
+      "driverId": { "protocol": "enocean", "address": "0031679d" },
+      "name": "",
+      "type": "1-key",
+      "roomId": "0fa4ed6e-a38a-47a2-add6-c42b8e0e92d9",
+      "configuration": {
+        "right": {
+          "type": "controlDevices",
+          "deviceIds": ["0d5bf97c-5776-4789-946b-1995330ec11d"]
+        },
+        "double": {},
+        "left": {}
+      }
+    },
+    {
+      "id": "bf5fb270-9014-4b98-a939-5309d3a473ba",
+      "driverId": { "protocol": "enocean", "address": "003167af" },
+      "name": "",
+      "type": "2-key",
+      "roomId": "e64b5b87-2f34-46fc-8ec2-85a731d8f7a3",
+      "configuration": {
+        "right": {
+          "type": "dimDevices",
+          "deviceIds": ["f159aa0d-b060-4003-a7fe-fbfcd90e95a3"]
+        },
+        "double": {},
+        "left": {
+          "type": "dimDevices",
+          "deviceIds": ["309affa2-d3a6-4a4d-8395-83b2eaa4a30d"]
+        }
+      }
+    },
+    {
+      "id": "73bfc5ad-0aba-4b9c-b096-332ec8ba9e9a",
+      "driverId": { "protocol": "enocean", "address": "0031a6ad" },
+      "name": "",
+      "type": "2-key",
+      "roomId": "dca9a21e-262f-4fc8-887a-219b2050fb7b",
+      "configuration": {
+        "right": {
+          "type": "dimDevices",
+          "deviceIds": ["f159aa0d-b060-4003-a7fe-fbfcd90e95a3"]
+        },
+        "double": {},
+        "left": {
+          "type": "dimDevices",
+          "deviceIds": ["309affa2-d3a6-4a4d-8395-83b2eaa4a30d"]
+        }
+      }
+    },
+    {
+      "id": "27815348-8ddf-41d8-b9da-512b1670b61d",
+      "driverId": { "protocol": "enocean", "address": "0031a6c1" },
+      "name": "",
+      "type": "2-key",
+      "roomId": "19af729b-63c2-494e-92a6-b885636f2106",
+      "configuration": {
+        "right": {
+          "type": "dimDevices",
+          "deviceIds": ["a2b849fa-7c5d-47f8-b4e6-178f71259bdb"]
+        },
+        "double": {},
+        "left": {
+          "type": "dimDevices",
+          "deviceIds": ["df090878-b7da-41d5-a216-0c908b4f805b"]
+        }
+      }
+    },
+    {
+      "id": "c4df782b-6124-448d-87fe-d9427fbc8d85",
+      "driverId": { "protocol": "enocean", "address": "00316796" },
+      "name": "",
+      "type": "1-key",
+      "roomId": "25d1cfc6-ff1a-47a3-b2e7-beff89219c1f",
+      "configuration": {
+        "right": {
+          "type": "dimDevices",
+          "deviceIds": ["58a77d5c-4c20-4975-a04f-8b42c58844b4"]
+        },
+        "double": {},
+        "left": {}
+      }
+    },
+    {
+      "id": "b794e8d9-e66f-4422-8fd3-05ac9bb4717e",
+      "driverId": { "protocol": "enocean", "address": "0031b0fe" },
+      "name": "",
+      "type": "1-key",
+      "roomId": "ccc0730f-4b9b-49e3-988d-6f7a518cbbeb",
+      "configuration": {
+        "right": {
+          "type": "controlDevices",
+          "deviceIds": ["9e640c84-2131-4f46-9e87-ca761bc459bf"]
+        },
+        "double": {},
+        "left": {}
+      }
+    },
+    {
+      "id": "ae88044f-8825-4461-83fe-f96bec4eedde",
+      "driverId": { "protocol": "enocean", "address": "0031b138" },
+      "name": "",
+      "type": "1-key",
+      "roomId": "ccc0730f-4b9b-49e3-988d-6f7a518cbbeb",
+      "configuration": {
+        "right": {
+          "type": "dimDevices",
+          "deviceIds": ["7e7bc520-48ac-4fc5-b522-bf6442181fcc"]
+        },
+        "double": {},
+        "left": {}
+      }
+    },
+    {
+      "id": "ac793c18-37ed-4519-9d3d-3c5ae6b56dd5",
+      "driverId": { "protocol": "enocean", "address": "0031678c" },
+      "name": "",
+      "type": "2-key",
+      "roomId": "b22be965-f8c6-4aee-8fdb-66ae4a77fc41",
+      "configuration": {
+        "right": {
+          "type": "dimDevices",
+          "deviceIds": ["a2b849fa-7c5d-47f8-b4e6-178f71259bdb"]
+        },
+        "double": {},
+        "left": {
+          "type": "dimDevices",
+          "deviceIds": ["df090878-b7da-41d5-a216-0c908b4f805b"]
+        }
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "72382cf3-0fb6-40ac-ad63-b99fb770dbed",
+      "name": "Welcome",
+      "devices": [
+        {
+          "id": "5f3e9476-1fff-409d-811e-10fbd18d69cc",
+          "state": { "on": true, "bri": 255 }
+        },
+        {
+          "id": "4476f300-0445-46f0-9bf0-e0caa9efbe60",
+          "state": { "on": true, "bri": 255 }
+        },
+        {
+          "id": "58a77d5c-4c20-4975-a04f-8b42c58844b4",
+          "state": { "on": true, "bri": 255 }
+        },
+        {
+          "id": "1b80dbbe-e490-4650-a14c-faa2a4ea0f29",
+          "state": { "on": true, "bri": 255 }
+        },
+        {
+          "id": "df090878-b7da-41d5-a216-0c908b4f805b",
+          "state": { "on": true, "bri": 255 }
+        },
+        {
+          "id": "a2b849fa-7c5d-47f8-b4e6-178f71259bdb",
+          "state": { "on": true, "bri": 255 }
+        }
+      ],
+      "icon": null
+    }
+  ],
+  "schedules": [],
+  "locations": {
+    "zones": [
+      { "id": "a6c05474-dc7c-4e0c-a95b-d971eaf6a57a", "name": "Back Office" },
+      { "id": "713101c6-88f6-469a-ae45-c30a33ad5a35", "name": "Front Office" }
+    ],
+    "rooms": [
+      {
+        "id": "dca9a21e-262f-4fc8-887a-219b2050fb7b",
+        "name": "Plateu Front",
+        "zoneId": "713101c6-88f6-469a-ae45-c30a33ad5a35"
+      },
+      {
+        "id": "e64b5b87-2f34-46fc-8ec2-85a731d8f7a3",
+        "name": "Plateu Back",
+        "zoneId": "a6c05474-dc7c-4e0c-a95b-d971eaf6a57a"
+      },
+      {
+        "id": "c3e9dcc0-b4bd-4f1c-bb18-ec3750f854be",
+        "name": "Work Area",
+        "zoneId": "a6c05474-dc7c-4e0c-a95b-d971eaf6a57a"
+      },
+      {
+        "id": "0fa4ed6e-a38a-47a2-add6-c42b8e0e92d9",
+        "name": "Samppalinna",
+        "zoneId": "a6c05474-dc7c-4e0c-a95b-d971eaf6a57a"
+      },
+      {
+        "name": "Piazza",
+        "id": "25d1cfc6-ff1a-47a3-b2e7-beff89219c1f",
+        "zoneId": "713101c6-88f6-469a-ae45-c30a33ad5a35"
+      },
+      {
+        "id": "ccc0730f-4b9b-49e3-988d-6f7a518cbbeb",
+        "name": "Kakola",
+        "zoneId": "713101c6-88f6-469a-ae45-c30a33ad5a35"
+      },
+      {
+        "id": "19af729b-63c2-494e-92a6-b885636f2106",
+        "name": "— Corridor",
+        "zoneId": "713101c6-88f6-469a-ae45-c30a33ad5a35"
+      },
+      {
+        "id": "b22be965-f8c6-4aee-8fdb-66ae4a77fc41",
+        "name": "— Corridor",
+        "zoneId": "a6c05474-dc7c-4e0c-a95b-d971eaf6a57a"
+      },
+      {
+        "id": "da529fe6-be8f-4680-8759-ef29cba09646",
+        "name": "Entrance",
+        "zoneId": "713101c6-88f6-469a-ae45-c30a33ad5a35"
+      }
+    ]
+  },
+  "mapLocation": {
+    "userDefined": true,
+    "timezone": "Europe/Helsinki",
+    "longitude": "22.2664896",
+    "latitude": "60.4508739",
+    "streetLocation": "Turku, Finland"
+  },
+  "gateways": [
+    {
+      "manufacturer": "Helvar",
+      "id": "53fe5418-bf20-461a-a37a-4f1c5561a862",
+      "gatewayId": { "protocol": "helvar510", "address": "000000003903" },
+      "commissioned": true,
+      "devices": [
+        {
+          "shortAddress": 1,
+          "longAddress": 3030133,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 2,
+          "longAddress": 3234374,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 3,
+          "longAddress": 4302920,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 4,
+          "longAddress": 4488037,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 241,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 5,
+          "longAddress": 5192834,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 241,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 6,
+          "longAddress": 5429624,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 7,
+          "longAddress": 5754565,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 8,
+          "longAddress": 8683868,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 9,
+          "longAddress": 9278022,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 241,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 10,
+          "longAddress": 12215135,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 241,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 11,
+          "longAddress": 12779171,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 241,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 12,
+          "longAddress": 15939904,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 241,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 13,
+          "longAddress": 16777200,
+          "status": "ok",
+          "deviceNumber": "50:30:79:70:04:94:80",
+          "type": "binary",
+          "version": 4,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 254, "max": 254 }
+        },
+        {
+          "shortAddress": 14,
+          "longAddress": 16777201,
+          "status": "ok",
+          "deviceNumber": "50:30:79:70:04:94:80",
+          "type": "binary",
+          "version": 241,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 254, "max": 254 }
+        },
+        {
+          "shortAddress": 15,
+          "longAddress": 16777202,
+          "status": "ok",
+          "deviceNumber": "50:30:79:70:04:94:80",
+          "type": "binary",
+          "version": 241,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 254, "max": 254 }
+        },
+        {
+          "shortAddress": 16,
+          "longAddress": 16777203,
+          "status": "ok",
+          "deviceNumber": "50:30:79:70:04:94:80",
+          "type": "binary",
+          "version": 4,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 254, "max": 254 }
+        },
+        {
+          "shortAddress": 17,
+          "longAddress": 3575945,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 18,
+          "longAddress": 3875991,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 19,
+          "longAddress": 11022999,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 20,
+          "longAddress": 12128601,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 21,
+          "longAddress": 2072161,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 22,
+          "longAddress": 2096199,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 91, "max": 254 }
+        },
+        {
+          "shortAddress": 23,
+          "longAddress": 4018037,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 24,
+          "longAddress": 4094100,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 91, "max": 254 }
+        },
+        {
+          "shortAddress": 25,
+          "longAddress": 4614301,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 26,
+          "longAddress": 7356554,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 27,
+          "longAddress": 9345103,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 91, "max": 254 }
+        },
+        {
+          "shortAddress": 28,
+          "longAddress": 12599163,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 29,
+          "longAddress": 13620092,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 30,
+          "longAddress": 16196478,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 31,
+          "longAddress": 862590,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 91, "max": 254 }
+        },
+        {
+          "shortAddress": 32,
+          "longAddress": 2385318,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 33,
+          "longAddress": 8298883,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 34,
+          "longAddress": 10024115,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 35,
+          "longAddress": 13294958,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 91, "max": 254 }
+        },
+        {
+          "shortAddress": 36,
+          "longAddress": 16409730,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 37,
+          "longAddress": 13957185,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 0,
+          "longAddress": 1470338,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        }
+      ]
+    },
+    {
+      "manufacturer": "Helvar",
+      "id": "2f5ee5bb-1451-453e-8537-81e9647b1f26",
+      "gatewayId": { "protocol": "helvar510", "address": "000000004112" },
+      "commissioned": true,
+      "devices": [
+        {
+          "shortAddress": 0,
+          "longAddress": 16777200,
+          "status": "ok",
+          "deviceNumber": "50:30:79:70:04:94:80",
+          "type": "binary",
+          "version": 4,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 254, "max": 254 }
+        },
+        {
+          "shortAddress": 1,
+          "longAddress": 16777201,
+          "status": "ok",
+          "deviceNumber": "50:30:79:70:04:94:80",
+          "type": "binary",
+          "version": 4,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 254, "max": 254 }
+        },
+        {
+          "shortAddress": 2,
+          "longAddress": 16777202,
+          "status": "ok",
+          "deviceNumber": "50:30:79:70:04:94:80",
+          "type": "binary",
+          "version": 4,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 254, "max": 254 }
+        },
+        {
+          "shortAddress": 3,
+          "longAddress": 16777203,
+          "status": "ok",
+          "deviceNumber": "50:30:79:70:04:94:80",
+          "type": "binary",
+          "version": 4,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 254, "max": 254 },
+          "unused": true
+        },
+        {
+          "shortAddress": 4,
+          "longAddress": 4159348,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 91, "max": 254 }
+        },
+        {
+          "shortAddress": 5,
+          "longAddress": 4540022,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 6,
+          "longAddress": 5221973,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 91, "max": 254 }
+        },
+        {
+          "shortAddress": 7,
+          "longAddress": 7059581,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 8,
+          "longAddress": 7130608,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 170, "max": 254 }
+        },
+        {
+          "shortAddress": 9,
+          "longAddress": 7130610,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 170, "max": 254 },
+          "unused": true
+        },
+        {
+          "shortAddress": 10,
+          "longAddress": 7130611,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 170, "max": 254 },
+          "unused": true
+        },
+        {
+          "shortAddress": 11,
+          "longAddress": 7130612,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 170, "max": 254 },
+          "unused": true
+        },
+        {
+          "shortAddress": 12,
+          "longAddress": 9055613,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 13,
+          "longAddress": 10570310,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 14,
+          "longAddress": 11723873,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 15,
+          "longAddress": 12319903,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 16,
+          "longAddress": 12534723,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 91, "max": 254 }
+        },
+        {
+          "shortAddress": 17,
+          "longAddress": 12928082,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 18,
+          "longAddress": 12996698,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 19,
+          "longAddress": 13458769,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 91, "max": 254 }
+        },
+        {
+          "shortAddress": 20,
+          "longAddress": 13929802,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        },
+        {
+          "shortAddress": 21,
+          "longAddress": 15573091,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 91, "max": 254 }
+        },
+        {
+          "shortAddress": 22,
+          "longAddress": 15722902,
+          "status": "ok",
+          "deviceNumber": "00:00:00:00:00:00:00",
+          "type": "dimmable",
+          "version": 6,
+          "model": "Unknown",
+          "brightnessLimits": { "min": 102, "max": 254 }
+        }
+      ]
+    }
+  ],
+  "enoceanSubDefBaseAddress": "ffd90c00",
+  "sensors": [],
+  "caretakerEmail": "sauli.tahkapaa@reaktor.com",
+  "caretakerPhoneNumbers": ["+358503292351"],
+  "buildingName": "",
+  "logoUrl": "https://s3.eu-central-1.amazonaws.com/houm-site-assets/logos/reaktor.png?v=2"
+}

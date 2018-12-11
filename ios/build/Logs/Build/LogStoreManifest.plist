@@ -5,6 +5,65 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>9F9A6CBF-2839-4DB4-B024-C507565C0421</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9F9A6CBF-2839-4DB4-B024-C507565C0421.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>kelvinControl project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kelvinControl</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project kelvinControl with scheme kelvinControl and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>566207695.14676702</real>
+			<key>timeStoppedRecording</key>
+			<real>566207709.45473301</real>
+			<key>title</key>
+			<string>Building project kelvinControl with scheme kelvinControl and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9F9A6CBF-2839-4DB4-B024-C507565C0421</string>
+		</dict>
+		<key>C18F365B-5D0A-412C-85DD-3F80C48F21F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C18F365B-5D0A-412C-85DD-3F80C48F21F2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>kelvinControl project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kelvinControl</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project kelvinControl with scheme kelvinControl and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>566225723.84643996</real>
+			<key>timeStoppedRecording</key>
+			<real>566225736.86725497</real>
+			<key>title</key>
+			<string>Building project kelvinControl with scheme kelvinControl and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C18F365B-5D0A-412C-85DD-3F80C48F21F2</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -1,6 +1,60 @@
 {
-  "1b80dbbe-e490-4650-a14c-faa2a4ea0f29": {
-    "x": 300,
-    "y": 300
+  "da529fe6-be8f-4680-8759-ef29cba09646": {
+    "name": "Entrance",
+    "lamp": "5f3e9476-1fff-409d-811e-10fbd18d69cc",
+    "x": "35%",
+    "y": "65%"
+  },
+
+  "25d1cfc6-ff1a-47a3-b2e7-beff89219c1f": {
+    "name": "Piazza",
+    "lamp": "4476f300-0445-46f0-9bf0-e0caa9efbe60",
+    "x": "10%",
+    "y": "52%"
+  },
+
+  "dca9a21e-262f-4fc8-887a-219b2050fb7b": {
+    "name": "Plateu Front",
+    "lamp": "309affa2-d3a6-4a4d-8395-83b2eaa4a30d",
+    "x": "32%",
+    "y": "16%"
+  },
+
+  "e64b5b87-2f34-46fc-8ec2-85a731d8f7a3": {
+    "name": "Plateu Back",
+    "lamp": "f159aa0d-b060-4003-a7fe-fbfcd90e95a3",
+    "x": "60%",
+    "y": "16%"
+  },
+  "c3e9dcc0-b4bd-4f1c-bb18-ec3750f854be": {
+    "name": "Work Area",
+    "lamp": "c4700537-ca4f-4bb0-a730-22f068497534",
+    "x": "86%",
+    "y": "51%"
+  },
+  "0fa4ed6e-a38a-47a2-add6-c42b8e0e92d9": {
+    "name": "Samppalinna",
+    "lamp": "0d5bf97c-5776-4789-946b-1995330ec11d",
+    "x": "70%",
+    "y": "84%"
+  },
+  "ccc0730f-4b9b-49e3-988d-6f7a518cbbeb": {
+    "name": "Kakola",
+    "lamp": "9e640c84-2131-4f46-9e87-ca761bc459bf",
+    "x": "37%",
+    "y": "82%"
+  },
+
+  "b22be965-f8c6-4aee-8fdb-66ae4a77fc41": {
+    "name": "Corridor",
+    "lamp": "a2b849fa-7c5d-47f8-b4e6-178f71259bdb",
+    "x": "60%",
+    "y": "35%"
+  },
+  "19af729b-63c2-494e-92a6-b885636f2106": {
+    "name": "Corridor",
+    "lamp": "df090878-b7da-41d5-a216-0c908b4f805b",
+    "x": "32%",
+    "y": "35%"
   }
 }

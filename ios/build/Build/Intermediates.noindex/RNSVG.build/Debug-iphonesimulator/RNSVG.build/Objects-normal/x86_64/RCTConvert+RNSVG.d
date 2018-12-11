@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Utils/RCTConvert+RNSVG.m \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Utils/RCTConvert+RNSVG.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Utils/RNSVGCGFCRule.h \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Utils/RNSVGVBMOS.h \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Utils/RNSVGUnits.h \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Utils/RNSVGLength.h \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Utils/RNSVGPathParser.h \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Brushes/RNSVGPainterBrush.h \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Brushes/RNSVGBrush.h \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Utils/RNSVGPercentageConverter.h \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Brushes/RNSVGPainter.h \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Brushes/RNSVGBrushType.h \
+  /Users/ollitoivanen/kelvinControl/node_modules/react-native-svg/ios/Brushes/RNSVGSolidColorBrush.h \
+  /Users/ollitoivanen/kelvinControl/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h
